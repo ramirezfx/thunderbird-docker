@@ -3,4 +3,4 @@ Type=Application
 Terminal=true
 Name=Thunderbird-Docker
 Icon=/usr/share/icons/docker/thunderbird.jpg
-Exec=/usr/local/bin/startthunderbird.sh
+Exec=sh /usr/local/bin/startthunderbird.sh
